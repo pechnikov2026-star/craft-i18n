@@ -132,6 +132,9 @@ msgstr "یک دنبالهٔ شماره‌دار (شکل‌ها، جدول‌ها
 msgid "A password is required to open this document."
 msgstr "برای باز کردن این سند به گذرواژه نیاز است."
 
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
+
 msgid "A table of contents"
 msgstr "یک فهرست مطالب"
 
@@ -522,6 +525,9 @@ msgstr "هر کسی که سند را باز کند به این گذرواژه ن
 msgid "APA"
 msgstr "APA"
 
+msgid "Applies the next time WordCraft starts."
+msgstr ""
+
 msgid "Apply as you type"
 msgstr "اعمال هم‌زمان با تایپ"
 
@@ -555,6 +561,9 @@ msgstr "آرژانتین"
 
 msgid "Armenian"
 msgstr "ارمنی"
+
+msgid "Arrange All"
+msgstr ""
 
 msgid "Arrange\nAll"
 msgstr "چیدن\nهمه"
@@ -2027,6 +2036,9 @@ msgstr "انجمن Discord"
 msgid "Display for Review"
 msgstr "نمایش برای مرور"
 
+msgid "Display server:"
+msgstr ""
+
 msgid "Display text"
 msgstr "متن نمایش"
 
@@ -2359,6 +2371,9 @@ msgstr "رابط آرنجی"
 
 msgid "Emphasis"
 msgstr "تأکید"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr "ماتریس‌های خالی"
@@ -2713,6 +2728,9 @@ msgstr "تثبیت موقعیت روی صفحه"
 
 msgid "Fixed Column Width"
 msgstr "عرض ثابت ستون"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr ""
@@ -3234,6 +3252,9 @@ msgstr "اگر…آنگاه…وگرنه"
 msgid "If…Then…Else…"
 msgstr "اگر…آنگاه…وگرنه…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "نادیده‌گرفتن کاراکترهای نشانه‌گذاری"
 
@@ -3573,6 +3594,9 @@ msgstr "اشتراک با حد پایین"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "اشتراک با حدود زیرنویس-بالانویس"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "تابع کسکانت معکوس"
 
@@ -3647,6 +3671,9 @@ msgstr ""
 
 msgid "Italy"
 msgstr "ایتالیا"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "واژه‌نامهٔ آن خوانده نشد: {reason}"
@@ -3724,6 +3751,12 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4030,6 +4063,9 @@ msgstr "پیوندها و ارجاع‌ها"
 msgid "Link…"
 msgstr "پیوند…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "تعریف فهرست"
 
@@ -4275,6 +4311,9 @@ msgstr "حاشیه‌های آینه‌ای"
 
 msgid "Mirrored"
 msgstr "آینه‌ای"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
@@ -4606,6 +4645,9 @@ msgstr "هیچ اعتبار مدلی در این نسخه ساخته نشده ا
 msgid "No new sources in that file"
 msgstr "منبع جدیدی در آن فایل نیست"
 
+msgid "No other WordCraft windows are open."
+msgstr ""
+
 msgid "No Outline"
 msgstr "بدون خط دور"
 
@@ -4903,6 +4945,9 @@ msgstr ""
 msgid "Only the allowed styles can be applied."
 msgstr "فقط سبک‌های مجاز می‌توانند اعمال شوند."
 
+msgid "only the desktop app has several windows"
+msgstr ""
+
 msgid "Only web (http, https) and email (mailto) links can be followed"
 msgstr "فقط پیوندهای وب (http، https) و ایمیل (mailto) را می‌توان دنبال کرد"
 
@@ -4921,6 +4966,9 @@ msgstr "وقتی گفت‌وگوی فایل سیستم ظاهر نمی‌شود�
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "OpenDocument Text (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "گشودن گفت‌وگوی چاپ…"
@@ -6140,6 +6188,9 @@ msgstr "نخست یک جعبهٔ متن انتخاب کنید"
 msgid "select a text box linked to another first"
 msgstr "نخست یک جعبهٔ متن پیوندشده به دیگری انتخاب کنید"
 
+msgid "Select Canvas Member"
+msgstr ""
+
 msgid "Select Cell"
 msgstr "انتخاب خانه"
 
@@ -6296,6 +6347,9 @@ msgstr "تعیین قالب‌بندی پاراگراف"
 msgid "Set Proofing Language…"
 msgstr "تعیین زبان بررسی…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "تنظیم:"
 
@@ -6304,6 +6358,9 @@ msgstr "سایه‌اندازی"
 
 msgid "Shadow, glow and soft edges"
 msgstr "سایه، درخشش و لبه‌های نرم"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "پُرکنندهٔ شکل"
@@ -6466,6 +6523,9 @@ msgstr "نمایش\nنظرها"
 
 msgid "Showing the first {count} items."
 msgstr "نمایش {count} مورد اول."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "درختی نشان می‌دهد: هر مورد زیر موردی که به آن تعلق دارد."
@@ -6734,6 +6794,9 @@ msgstr "املا و دستور به انگلیسی (ایالات متحده) ب�
 msgid "Spelling and grammar are checked in {language}."
 msgstr "املا و دستور به {language} بررسی می‌شوند."
 
+msgid "Spelling dictionaries and hyphenation for more languages. English is built in."
+msgstr ""
+
 msgid "Spelling Suggestions"
 msgstr "پیشنهادهای املا"
 
@@ -6796,6 +6859,12 @@ msgstr "حالت"
 
 msgid "Statement   5.50\" × 8.50\""
 msgstr "Statement   ۵٫۵۰\" × ۸٫۵۰\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
 
 msgid "Still there? I can hear you thinking."
 msgstr ""
@@ -6961,6 +7030,9 @@ msgstr ""
 
 msgid "Switzerland"
 msgstr "سوئیس"
+
+msgid "Synchronous Scrolling"
+msgstr ""
 
 msgid "Synonyms"
 msgstr "مترادف‌ها"
@@ -7525,6 +7597,9 @@ msgstr "تورابیان"
 msgid "Turkish"
 msgstr "ترکی"
 
+msgid "turn on View Side by Side first"
+msgstr ""
+
 msgid "Turquoise"
 msgstr ""
 
@@ -7791,6 +7866,9 @@ msgstr ""
 msgid "View Gridlines"
 msgstr "مشاهدهٔ خطوط شبکه"
 
+msgid "View Side by Side"
+msgstr ""
+
 msgid "View State"
 msgstr "وضعیت نما"
 
@@ -7983,6 +8061,9 @@ msgstr "سال"
 msgid "Yields"
 msgstr "نتیجه می‌دهد"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr ""
 
@@ -8038,6 +8119,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "{count} از {total} گیرنده ادغام می‌شود."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"
